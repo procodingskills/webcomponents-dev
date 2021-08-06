@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/procodingskills.lwc-ks00k292",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve E8HEHLj7ZRDGPySbkron --open"
+  }
+}
